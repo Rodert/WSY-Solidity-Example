@@ -3,9 +3,10 @@ Solidity 实例
 
 **仓库**
 
-[Solidity 学习](https://github.com/Rodert/WSY-Solidity)
+[WSY-Solidity 学习](https://github.com/Rodert/WSY-Solidity)
 
-[Solidity 实例](https://github.com/Rodert/WSY-Solidity-Example)
+[WSY-Solidity-Example 实例](https://github.com/Rodert/WSY-Solidity-Example)
+
 
 ---
 
